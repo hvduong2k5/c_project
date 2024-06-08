@@ -1,0 +1,36 @@
+
+ __________________________________________________________________________________________________________
+|ID1|BO |ME |ID2|The he|Ho va Ten                |Gioi tinh|ngay sinh |Nghe nghiep|  Ghi chu              |
+|===|===|===|===|======|=========================|=========|==========|===========|=======================|
+|1  |0  |0  |2  |1     |Vu Dinh Nam              |Nam      |26/01/1785|Quan       |1800                   |
+|2  |-1 |-1 |1  |1     |Le Thi Hop               |Nu       |29/08/1790|k          |1810                   |
+|3  |1  |2  |4  |2     |Vu Dinh Dam              |Nam      |06/06/1810|Quan       |1890                   |
+|4  |-1 |-1 |3  |2     |Nguyen Thi Can           |Nu       |09/02/1811|k          |1876                   |
+|5  |1  |2  |6  |2     |Vu Dinh Khang            |Nam      |15/08/1812|Quan       |1888                   |
+|6  |-1 |-1 |5  |2     |Pham Thi Quyen           |Nu       |30/09/1815|k          |1890                   |
+|7  |3  |4  |8  |3     |Vu Dinh Lieu             |Nam      |12/03/1845|k          |1905                   |
+|8  |-1 |-1 |7  |3     |Doan Thi Duc             |Nu       |14/03/1849|k          |1910                   |
+|9  |3  |4  |10 |3     |Vu Thi Luat              |Nu       |18/04/1849|k          |1908                   |
+|10 |-1 |-1 |9  |3     |Tran Cong Van            |Nam      |27/01/1847|k          |1904                   |
+|11 |5  |6  |12 |3     |Vu Thi Thao My           |Nu       |25/04/1850|k          |1911                   |
+|12 |-1 |-1 |11 |3     |Dau Phi Hao              |Nam      |24/11/1856|k          |1914                   |
+|13 |7  |8  |14 |4     |Vu Trung Quyet           |Nam      |06/12/1885|Dia chu    |1952                   |
+|14 |-1 |-1 |13 |4     |Do Thi Hoa               |Nu       |11/07/1888|k          |1964                   |
+|15 |13 |14 |16 |5     |Vu Thanh Son             |Nam      |13/05/1890|Nong dan   |1945                   |
+|16 |-1 |-1 |15 |5     |Ha Vu Thao Lien          |Nu       |12/07/1890|Nong dan   |1969                   |
+|17 |15 |16 |18 |6     |Vu Thai Ha               |Nam      |11/05/1915|Bo doi     |1925 (Hi sinh)         |
+|18 |-1 |-1 |17 |6     |Bui Thi Thuy             |Nu       |01/12/1919|Nong Dan   |1989                   |
+|19 |15 |16 |20 |6     |Vu Thi Dung              |Nu       |21/10/1918|Nong Dan   |1982                   |
+|20 |-1 |-1 |19 |6     |Nguyen Van Hieu          |Nam      |22/11/1920|Bo doi     |1972 (Thuong binh)     |
+|21 |17 |18 |22 |7     |Vu Dinh Khanh            |Nam      |18/12/1953|Bo doi     |2005 (Thuong binh)     |
+|22 |-1 |-1 |21 |7     |Nguyen Thi Thu           |Nu       |17/03/1956|Bac si     |2015                   |
+|23 |21 |22 |24 |8     |Vu Quoc Viet             |Nam      |26/05/1978|Tho xay    |k                      |
+|24 |-1 |-1 |23 |8     |Dang Vu Hoang Mai        |Nu       |22/07/1983|Nhan vien  |k                      |
+|25 |21 |22 |26 |8     |Vu Bao Minh              |Nam      |30/08/1980|Ky su      |k                      |
+|26 |-1 |-1 |25 |8     |Nguyen Thi Dao           |Nu       |11/08/1983|Giao vien  |k                      |
+|27 |23 |24 |-1 |9     |Vu Minh Huy              |Nam      |05/02/2000|Sinh vien  |k                      |
+|28 |23 |24 |-1 |9     |Vu Phuong Anh            |Nu       |01/11/2004|Hoc sinh   |k                      |
+|29 |23 |24 |-1 |9     |Vu Van Sang              |Nam      |24/04/2009|Hoc sinh   |k                      |
+|30 |25 |26 |-1 |9     |Vu Trung Quyen           |Nam      |23/09/2005|Sinh vien  |k                      |
+|31 |25 |26 |-1 |9     |Vu Trung Quyet           |Nam      |17/06/2008|Hoc sinh   |k                      |
+|000|000|000|000|000000|**********************************************************************************|

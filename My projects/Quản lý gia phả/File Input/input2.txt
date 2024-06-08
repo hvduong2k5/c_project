@@ -1,0 +1,43 @@
+
+ __________________________________________________________________________________________________________
+|ID1|BO |ME |ID2|The he|Ho va Ten                |Gioi tinh|ngay sinh |Nghe nghiep|  Ghi chu              |
+|===|===|===|===|======|=========================|=========|==========|===========|=======================|
+|1  |0  |0  |2  |1     |Le Quy Cong              |Nam      |26/04/1905|Nong dan   |1965                   |
+|2  |-1 |-1 |1  |1     |Pham Quy Nuong           |Nu       |39/12/1909|Nong dan   |1970                   |
+|3  |1  |2  |-1 |2     |Le Nhat Lang             |Nam      |01/06/1937|k          |1937 (sinh non)        |
+|4  |1  |2  |5  |2     |Le Huu Tai               |Nam      |15/09/1938|Tho moc    |1988                   |
+|5  |-1 |-1 |4  |2     |Tran Quy Thi             |Nu       |26/12/1941|k          |1990                   |
+|6  |1  |2  |7  |2     |Le Thi Lan               |Nu       |30/11/1942|Nong dan   |1985                   |
+|7  |-1 |-1 |6  |2     |Do Huu Dat               |Nam      |22/07/1940|Nong dan   |1991                   |
+|8  |1  |2  |9  |2     |Le Thi Hoai              |Nu       |17/08/1944|may va     |1997                   |
+|9  |-1 |-1 |8  |2     |Hoang Minh Vu            |Nam      |19/03/1940|som truong |1999                   |
+|10 |4  |5  |11 |3     |Le Dinh Kham             |Nam      |20/05/1942|Bo doi     |1967 (hi sinh)         |
+|11 |-1 |-1 |10 |3     |Tran Thuy Nga            |Nu       |22/03/1946|Bac si     |1998                   |
+|12 |4  |5  |13 |3     |Le Van Dung              |Nam      |21/05/1947|Tho moc    |1989                   |
+|13 |-1 |-1 |12 |3     |Vo Thi Thuy Linh         |Nu       |11/11/1950|Ban hang   |2000                   |
+|14 |4  |5  |15 |3     |Le Cong Dinh             |Nam      |18/06/1948|Bo doi     |1980 (thuong binh)     |
+|15 |-1 |-1 |14 |3     |Nguyen Thi Kieu          |Nu       |17/06/1949|k          |2007                   |
+|16 |4  |5  |17 |3     |Le Ty                    |Nam      |14/07/1951|Bo doi     |k                      |
+|17 |-1 |-1 |16 |3     |Vu Thi Anh Thu           |Nu       |12/06/1950|Nau Keo    |k 	                 |
+|18 |10 |11 |19 |4     |Le Dinh Khiem            |Nam      |08/05/1980|Nong dan   |k                      |
+|19 |-1 |-1 |18 |4     |Dau thi thuy van         |Nu       |04/01/1987|k          |k                      |
+|20 |10 |11 |21 |4     |Le Dinh An               |Nam      |23/06/1988|Dan va     |k                      |
+|21 |-1 |-1 |20 |4     |Nguyen Thi Tam           |Nu       |29/07/1984|Phu viec   |k                      |
+|22 |12 |13 |23 |4     |Le Van Hong              |Nam      |09/08/1987|Sua xe     |k                      |
+|23 |-1 |-1 |22 |4     |Tran Thi My Duyen        |Nu       |06/08/1989|Nau nuong  |k                      |
+|24 |12 |13 |25 |4     |Le Van Nguyen            |Nam      |27/09/1985|Bac si     |k                      |
+|25 |-1 |-1 |24 |4     |Trinh Thi My             |Nu       |25/07/1990|Giao vien  |k                      |
+|26 |14 |15 |27 |4     |Le Cong Binh             |Nam      |19/05/1990|Quan doi   |k                      |
+|27 |-1 |-1 |26 |4     |Tran Thi Em              |Nu       |28/05/1992|Quan nhan  |k                      |
+|28 |16 |17 |29 |4     |Le Van Cong              |Nam      |26/12/1993|Giao vien  |k                      |
+|29 |-1 |-1 |28 |4     |Dao Thi Thuc             |Nu       |24/10/1991|Giao vien  |k                      |
+|30 |16 |17 |31 |4     |Le Thi Ngoc Ngan         |Nu       |22/11/1992|Tu do      |k                      |
+|31 |-1 |-1 |30 |4     |Tran Van Tien            |Nam      |21/07/1993|Tho xay    |k                      |
+|32 |18 |19 |-1 |5     |Le Dinh Van              |Nam      |28/06/2007|Hoc sinh   |k                      |
+|33 |20 |21 |-1 |5     |Le Duc Dam               |Nam      |20/02/2010|Hoc sinh   |k                      |
+|34 |20 |21 |-1 |5     |Le Thuc Quyen            |Nu       |10/01/2018|Hoc sinh   |k                      |
+|35 |22 |23 |-1 |5     |Le Thi Quynh             |Nu       |21/05/2011|Hoc sinh   |k                      |
+|36 |24 |25 |-1 |5     |Le Van Nam               |Nam      |28/04/2015|Hoc sinh   |k                      |
+|37 |26 |27 |-1 |5     |Le Ba Liem               |Nam      |19/02/2019|Hoc sinh   |k                      |
+|38 |28 |29 |-1 |5     |Le Thi Tuu               |Nu       |12/11/2022|Hoc sinh   |k                      |
+|000|000|000|000|000000|**********************************************************************************|
